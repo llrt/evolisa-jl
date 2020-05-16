@@ -1,6 +1,6 @@
 # evolisa-jl
 
-Julia version of Roger Alsing's Evolisa, created for fun and lang learning
+Julia version of Roger Alsing's fascinating [Evolisa](https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/), created for fun and lang learning
 
 ## Main Idea
 
