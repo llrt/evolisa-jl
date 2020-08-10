@@ -10,7 +10,7 @@ The main script (_main.jl_) receives a img file path (currently hardcoded), load
 
 The random set is iteratively evolved in a Genetic Programming fashion, introducing minor adjustments and checking for better similarity with original image - if similarity is better than the previous one, this generation is kept; if not is discarded.
 
-The GP algorithm is configured through parameters in _setting.jl_
+The GP algorithm is configured through parameters in _settings.jl_
 
 ## Examples
 
